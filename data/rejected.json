@@ -216,14 +216,6 @@
   "reason": "Posting not in English"
  },
  {
-  "id": "a9122da8b3aa",
-  "title": "Werkstudent Customer Success & Sales (all gender)",
-  "company": "leakshield GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/leakshield-gmbh/werkstudentin-customer-success-sales-berlin-221749",
-  "reason": "German required"
- },
- {
   "id": "0265a2a11e3a",
   "title": "Verkäufer / Beauty Expert Berlin Store (all genders)",
   "company": "Flaconi",
@@ -237,6 +229,14 @@
   "company": "ABEX Stahlbau-Rohrbiegen-Stadtmöbel GmbH",
   "source": "Arbeitnow",
   "url": "https://www.arbeitnow.com/jobs/companies/abex-stahlbau-rohrbiegen-stadtmobel-gmbh/mitarbeiter-personalsuche-als-werkstudentin-minijob-tz-berlin-222352",
+  "reason": "German required"
+ },
+ {
+  "id": "22546e9a1800",
+  "title": "Werkstudent*in Promotion (m/w/d)",
+  "company": "Octopus Energy Group",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/werkstudentin-promotion-berlin-de-376841",
   "reason": "German required"
  },
  {
@@ -368,6 +368,14 @@
   "reason": "Posting not in English"
  },
  {
+  "id": "f3e99e1401f9",
+  "title": "Internship as Online Primary School Tutor – Part Time",
+  "company": "Nachhilfeunterricht",
+  "source": "Firecrawl: berlinstartupjobs.com",
+  "url": "https://join.com/companies/nachhilfeunterricht/16481441-internship-as-online-primary-school-tutor-part-time?pid=9d53c6d97022a070ffcd&oid=3f3fc2da-9377-4b71-a4f1-79e758dc667f",
+  "reason": "Asks to apply via WhatsApp"
+ },
+ {
   "id": "8992e59aafd5",
   "title": "Werkstudent Legal & LegalTech",
   "company": "Nulegal",
@@ -422,6 +430,22 @@
   "source": "Firecrawl: berlinstartupjobs.com",
   "url": "https://berlinstartupjobs.com/internships/founders-associate-werkstudentin-m-w-d-journeyman/",
   "reason": "Posting not in English"
+ },
+ {
+  "id": "26e5c50a54d2",
+  "title": "Marketing Intern",
+  "company": "Lassie",
+  "source": "Firecrawl: berlinstartupjobs.com",
+  "url": "https://join.com/companies/pettechstartup/16342798-marketing-intern?pid=46507e856b58d159bea7&oid=d4a5059a-b27b-47a2-b3a7-961289d31674",
+  "reason": "German required"
+ },
+ {
+  "id": "ee70748dd01f",
+  "title": "Deal Operations & Legal Working Student [Masters/PhD]",
+  "company": "Unosecur",
+  "source": "Firecrawl: berlinstartupjobs.com",
+  "url": "https://berlinstartupjobs.com/internships/deal-operations-legal-working-student-masters-phd-unosecur-gmbh/",
+  "reason": "German required"
  },
  {
   "id": "8bd1359d6f73",
@@ -480,22 +504,6 @@
   "reason": "Posting too old"
  },
  {
-  "id": "7c027cc1a392",
-  "title": "Student Assistant* VIT-IMC / Virtual and Augmented Reality / Unity Development",
-  "company": "Fraunhofer Heinrich Hertz Institute HHI",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.fraunhofer.de/job/Berlin-Student-Assistant-VIT-IMC-Virtual-and-Augmented-Reality-Unity-Development-10587/1455180533/?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "Posting too old"
- },
- {
-  "id": "0f8efe1fdf5f",
-  "title": "Werkstudent*in VIT-IMC / Virtual und Augmented Reality / Unity Entwicklung",
-  "company": "Fraunhofer Heinrich Hertz Institute HHI",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.fraunhofer.de/job/Berlin-Werkstudentin-VIT-IMC-Virtual-und-Augmented-Reality-Unity-Entwicklung-10587/1455180433/?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "German required"
- },
- {
   "id": "3fbc173f482e",
   "title": "Werkstudent Softwareentwicklung (m/w/d)",
   "company": "Nhas Food 1993 GmbH",
@@ -544,20 +552,12 @@
   "reason": "German required"
  },
  {
-  "id": "08d5ba40cdb2",
-  "title": "Werkstudent (w/m/d) - Security Tooling",
-  "company": "IONOS",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/ionos-werkstudent-w-m-d-security-tooling-d09161c0",
-  "reason": "German required"
- },
- {
   "id": "87834d74184a",
   "title": "Intern, Data Engineer - People & Culture",
   "company": "Delivery Hero",
   "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/delivery-hero-intern-data-engineer-people-culture-21167ad7",
-  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
+  "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159550349?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "Posting too old"
  },
  {
   "id": "f837f276a322",
