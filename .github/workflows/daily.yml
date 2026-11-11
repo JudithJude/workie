@@ -17,6 +17,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -41,6 +42,8 @@ jobs:
           git config user.email "workie-bot@users.noreply.github.com"
           git add data site
           git diff --cached --quiet || git commit -m "Job refresh $(date -u +%F)"
+          # If the repo changed during the run, replay this run's data on top (its data wins).
+          git pull --rebase -X theirs origin main
           git push
 
       - uses: actions/configure-pages@v5
