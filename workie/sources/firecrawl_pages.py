@@ -7,6 +7,7 @@ Jobs already on the board reuse their stored details, so credits are only spent 
 """
 import logging
 import os
+import time
 from urllib.parse import urljoin, urlparse
 
 from .. import store
@@ -59,7 +60,11 @@ def _host(url: str) -> str:
         return ""
 
 
+_DELAY = 6  # seconds between Firecrawl calls (free plan has a low rate limit)
+
+
 def _scrape(url: str, headers: dict, formats: list) -> dict:
+    time.sleep(_DELAY)
     resp = post_json(API, headers=headers, timeout=180, payload={
         "url": url, "onlyMainContent": True, "formats": formats})
     return (resp or {}).get("data") or {}
@@ -91,6 +96,8 @@ def fetch(cfg: dict) -> list[Job]:
             log.info("firecrawl: skipped (no FIRECRAWL_API_KEY)")
         return []
     headers = {"Authorization": f"Bearer {key}"}
+    global _DELAY
+    _DELAY = c.get("delay_seconds", 6)
     known = store.load()
     budget = c.get("max_details", 40)
     jobs = []

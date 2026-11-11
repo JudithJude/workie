@@ -50,7 +50,7 @@ def test_firecrawl_enriches_new_jobs(monkeypatch):
         return {"data": {"markdown": "We are hiring a working student in Berlin. English is our language.",
                          "links": ["https://metergrid.jobs.personio.de/job/9"]}}
     monkeypatch.setattr(firecrawl_pages, "post_json", fake_post)
-    cfg = load_config(); cfg["firecrawl"]["urls"] = ["https://www.workingstudentjobs.de/berlin/listing"]
+    cfg = load_config(); cfg["firecrawl"]["delay_seconds"] = 0; cfg["firecrawl"]["urls"] = ["https://www.workingstudentjobs.de/berlin/listing"]
     jobs = firecrawl_pages.fetch(cfg)
     assert calls == ["https://www.workingstudentjobs.de/berlin/listing", "https://www.workingstudentjobs.de/job/9"]
     assert jobs[0].apply_url == "https://metergrid.jobs.personio.de/job/9"

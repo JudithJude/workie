@@ -34,6 +34,7 @@ ats:
 firecrawl:
   enabled: true
   max_details: 40         # new job pages opened per run (~1 credit each)
+  delay_seconds: 6        # pause between Firecrawl calls (avoids rate limits)
   urls:
     - https://berlinstartupjobs.com/internships/
     - https://englishjobs.de/in/berlin/working?tags=student
