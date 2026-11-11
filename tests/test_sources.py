@@ -38,9 +38,9 @@ def test_bundesagentur_v6_shape(monkeypatch):
     assert j.apply_url.endswith("/123-X")
 
 
-def test_firecrawl_enriches_new_jobs(monkeypatch):
+def test_firecrawl_enriches_new_jobs(monkeypatch, tmp_path):
     monkeypatch.setenv("FIRECRAWL_API_KEY", "fc-test")
-    monkeypatch.setattr(firecrawl_pages.store, "load", lambda: {})
+    monkeypatch.setattr(firecrawl_pages, "CACHE", tmp_path / "cache.json")
     calls = []
     def fake_post(url, payload, headers=None, **_):
         calls.append(payload["url"])
@@ -55,3 +55,9 @@ def test_firecrawl_enriches_new_jobs(monkeypatch):
     assert calls == ["https://www.workingstudentjobs.de/berlin/listing", "https://www.workingstudentjobs.de/job/9"]
     assert jobs[0].apply_url == "https://metergrid.jobs.personio.de/job/9"
     assert "English is our language" in jobs[0].description
+
+    # second run: page comes from cache, no detail scrape
+    calls.clear()
+    jobs = firecrawl_pages.fetch(cfg)
+    assert calls == ["https://www.workingstudentjobs.de/berlin/listing"]
+    assert jobs[0].apply_url == "https://metergrid.jobs.personio.de/job/9"

@@ -5,6 +5,7 @@
    find the employer's real apply link (aggregators often link to themselves).
 Jobs already on the board reuse their stored details, so credits are only spent once.
 """
+import json
 import logging
 import os
 import time
@@ -16,6 +17,7 @@ from ..models import Job, to_iso_date
 
 log = logging.getLogger("workie")
 API = "https://api.firecrawl.dev/v2/scrape"
+CACHE = store.DATA / "firecrawl_cache.json"  # job page url -> {description, apply_url}
 
 SCHEMA = {
     "type": "object",
@@ -98,16 +100,18 @@ def fetch(cfg: dict) -> list[Job]:
     headers = {"Authorization": f"Bearer {key}"}
     global _DELAY
     _DELAY = c.get("delay_seconds", 6)
-    known = store.load()
+    cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
     budget = c.get("max_details", 40)
-    jobs = []
+    jobs, listed, all_ok = [], set(), True
     for url in c.get("urls", []):
         data = _scrape(url, headers, [{"type": "json", "schema": SCHEMA, "prompt": PROMPT}])
         payload = data.get("json") or data.get("extract") or {}
         found = payload.get("jobs", []) if isinstance(payload, dict) else []
+        all_ok &= bool(data)
         log.info("firecrawl %s: %d", url, len(found))
         for j in found:
             job_url = urljoin(url, j.get("job_url") or j.get("apply_url") or "")
+            listed.add(job_url)
             job = Job(
                 title=j.get("title", ""),
                 company=j.get("company", ""),
@@ -118,15 +122,22 @@ def fetch(cfg: dict) -> list[Job]:
                 source=f"Firecrawl: {_host(url)}",
                 posted_at=to_iso_date(j.get("posted_date")),
             )
-            old = known.get(job.id)
-            if old and old.description:
-                job.description, job.apply_url = old.description, old.apply_url
+            hit = cache.get(job_url)
+            if hit:
+                job.description, job.apply_url = hit["description"], hit["apply_url"]
             elif job_url and budget > 0:
                 budget -= 1
                 page = _scrape(job_url, headers, ["markdown", "links"])
-                job.description = (page.get("markdown") or job.description)[:8000]
-                job.apply_url = _employer_link(page.get("links"), job.company, job_url) or job_url
-                job.__post_init__()  # re-clean the new description
+                if page.get("markdown"):
+                    job.description = page["markdown"][:8000]
+                    job.apply_url = _employer_link(page.get("links"), job.company, job_url) or job_url
+                    job.__post_init__()  # re-clean the new description
+                    cache[job_url] = {"description": job.description, "apply_url": job.apply_url}
             jobs.append(job)
+    # Keep the cache small: drop pages no longer listed (only if every listing page loaded).
+    if all_ok:
+        cache = {u: v for u, v in cache.items() if u in listed}
+    store.DATA.mkdir(exist_ok=True)
+    CACHE.write_text(json.dumps(cache, ensure_ascii=False))
     log.info("firecrawl: %d raw, %d detail pages left in budget", len(jobs), budget)
     return jobs
