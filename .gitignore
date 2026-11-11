@@ -1,0 +1,8 @@
+# Your CV and tailored versions never go to GitHub
+cv/*
+!cv/README.md
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

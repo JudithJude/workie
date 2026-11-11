@@ -1,0 +1,88 @@
+# Workie pipeline config. Edit freely; no code changes needed.
+
+max_age_days: 30          # drop postings older than this
+hide_after_unseen_days: 3 # hide jobs no source has returned for this many days
+
+# --- Sources -------------------------------------------------------------
+
+arbeitnow:
+  enabled: true
+  pages: 10               # ~100 jobs per page
+
+bundesagentur:
+  enabled: true
+  where: Berlin
+  radius_km: 25
+  queries:                # "was" search terms
+    - Working Student
+    - Werkstudent Data
+    - Werkstudent Analytics
+    - Student Assistant
+    - English speaking
+  minijob: true           # also search Minijob listings (arbeitszeit=mj)
+  max_details: 60         # job-detail lookups per run (for descriptions)
+
+# Employer applicant-tracking boards (public JSON APIs, no key needed).
+# Add a company by its board token, e.g. job-boards.greenhouse.io/<token>
+ats:
+  greenhouse:             # boards-api.greenhouse.io/v1/boards/<token>/jobs
+    - n26
+  lever: []               # api.lever.co/v0/postings/<company>
+  ashby: []               # api.ashbyhq.com/posting-api/job-board/<name>
+
+# Listing / career pages scraped with Firecrawl (needs FIRECRAWL_API_KEY).
+firecrawl:
+  enabled: true
+  urls:
+    - https://berlinstartupjobs.com/internships/
+    - https://englishjobs.de/in/berlin/working?tags=student
+    - https://www.workingstudentjobs.de/jobs/in/berlin/tech
+
+# --- Matching ------------------------------------------------------------
+
+keywords:
+  student: [working student, werkstudent, student assistant, studentische,
+            student job, intern, internship, praktikum, praktikant, trainee,
+            part-time, part time, teilzeit, minijob, mini-job, aushilfe]
+  data: [data, analytics, analyst, bi, business intelligence, sql, python,
+         reporting, dashboard, etl, dbt, machine learning, ai, automation,
+         insights, controlling, research]
+  side_job: [barista, waiter, waitress, server, bartender, kitchen, cook,
+             dishwasher, runner, host, retail, sales assistant, cashier,
+             warehouse, picker, packer, logistics, delivery, rider, courier,
+             cleaning, cleaner, housekeeping, hotel, front desk, reception,
+             receptionist, event staff, promoter, customer service, support,
+             babysitter, nanny, tutor, dog walker, aushilfe, minijob]
+
+# Domains whose apply links we trust (employer's own domain is also trusted).
+trusted_apply_hosts:
+  - arbeitnow.com
+  - arbeitsagentur.de
+  - linkedin.com
+  - indeed.com
+  - de.indeed.com
+  - stepstone.de
+  - glassdoor.com
+  - glassdoor.de
+  - xing.com
+  - greenhouse.io
+  - lever.co
+  - ashbyhq.com
+  - personio.de
+  - personio.com
+  - smartrecruiters.com
+  - myworkdayjobs.com
+  - recruitee.com
+  - join.com
+  - softgarden.io
+  - softgarden.de
+  - workable.com
+  - teamtailor.com
+  - bamboohr.com
+  - successfactors.com
+  - successfactors.eu
+  - jobs.ashbyhq.com
+  - dvinci-easy.com
+  - onlyfy.jobs
+  - rexx-systems.com
+  - berlinstartupjobs.com
