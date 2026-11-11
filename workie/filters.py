@@ -28,7 +28,9 @@ GERMAN_REQUIRED = [
 _GERMAN_REQ = re.compile("|".join(GERMAN_REQUIRED), re.I)
 _GERMAN_TITLE_WORDS = re.compile(
     r"\b(und|mit|für|im|der|die|das|bereich|mitarbeiter|kaufm|sachbearbeiter|"
-    r"verkäufer|reinigungskraft|servicekraft|lagerhelfer|fahrer)\b", re.I)
+    r"verkäufer|reinigungskraft|servicekraft|lagerhelfer|fahrer|praktikum|praktikant(in)?|"
+    r"werkstudent(in)?|werkstudent/in|aushilfe)\b|\((m/w/d|w/m/d|m/w/x|w/m/x)\)", re.I)
+_UNPAID = re.compile(r"\b(unpaid|unbezahlt(es)?|without (pay|salary|compensation)|no (pay|salary|compensation))\b", re.I)
 
 
 _SENIOR = re.compile(r"\b(senior|sr\.?|lead|head|principal|staff|director|vp|manager|teamleiter|leitung)\b", re.I)
@@ -93,6 +95,8 @@ def check(job: Job, cfg: dict) -> str | None:
     if not cat:
         return "Not a student or side job"
     job.category = cat
+    if _UNPAID.search(job.title) or _UNPAID.search(job.description[:3000]):
+        return "Unpaid"
     if german_required(job):
         return "German required"
     lang = english_status(job)

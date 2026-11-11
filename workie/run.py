@@ -34,7 +34,7 @@ def process(raw: list[Job], cfg: dict, today: date) -> tuple[list[Job], list[dic
             continue  # irrelevant, not worth logging
         reason = reason or fraud.check(job, cfg, today)
         if reason:
-            rejected.append({"title": job.title, "company": job.company, "source": job.source,
+            rejected.append({"id": job.id, "title": job.title, "company": job.company, "source": job.source,
                              "url": job.apply_url, "reason": reason})
         else:
             kept.append(job)
@@ -54,7 +54,10 @@ def main():
             log.exception("source %s failed", name)
 
     kept, rejected = process(raw, cfg, today)
-    db, new = store.merge(store.load(), kept, today)
+    db = store.load()
+    for r in rejected:  # a job that now fails a check leaves the board immediately
+        db.pop(r["id"], None)
+    db, new = store.merge(db, kept, today)
     store.save(db, rejected, today)
     shown = store.visible(db, today, cfg.get("hide_after_unseen_days", 3))
     board.build(shown, rejected, today)

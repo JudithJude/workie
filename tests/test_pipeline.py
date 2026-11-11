@@ -95,3 +95,12 @@ def test_student_manager_title_kept():
 def test_lookalike_domain_rejected():
     # "acme" inside an unrelated domain must not count as the employer's site
     assert reason(job(apply_url="https://jobs-acme-hiring.xyz/apply")).startswith("Apply link on untrusted domain")
+
+
+def test_unpaid_rejected():
+    assert reason(job(title="Unpaid Marketing Intern")) == "Unpaid"
+
+
+def test_german_title_without_description_rejected():
+    j = job(title="Praktikum Social Media Management (m/w/d)", description="", source="Firecrawl: x")
+    assert reason(j) == "Posting not in English"

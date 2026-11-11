@@ -33,6 +33,7 @@ ats:
 # Listing / career pages scraped with Firecrawl (needs FIRECRAWL_API_KEY).
 firecrawl:
   enabled: true
+  max_details: 40         # new job pages opened per run (~1 credit each)
   urls:
     - https://berlinstartupjobs.com/internships/
     - https://englishjobs.de/in/berlin/working?tags=student
