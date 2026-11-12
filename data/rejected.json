@@ -1,5 +1,117 @@
 [
  {
+  "id": "7dd1eae26e44",
+  "title": "Intern - Founders Associate (f/m/d) Fintech Startup (Serial Entrepreneurs) Starting in January 2027",
+  "company": "finperks GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/finperks-gmbh/intern-founders-associate-fintech-startup-serial-entrepreneurs-starting-in-january-2027-berlin-34316",
+  "reason": "Payment red flag"
+ },
+ {
+  "id": "ec6db6166790",
+  "title": "Sales Operations Intern",
+  "company": "Pergolux",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/pergolux/sales-operations-intern-berlin-465491",
+  "reason": "Unpaid"
+ },
+ {
+  "id": "8977b45125b7",
+  "title": "Revenue Operations Intern (w/m/d)",
+  "company": "Liqid Lig",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/revenue-operations-intern-berlin-157221",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "69e522652cd9",
+  "title": "Investment Team Intern (m/w/d) - AI Roll-up",
+  "company": "Taxforce Services",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/taxforce-services/investment-team-intern-ai-roll-up-berlin-306932",
+  "reason": "German required"
+ },
+ {
+  "id": "398b54ef2f96",
+  "title": "Founders Associate Intern (m/w/d)",
+  "company": "Taxforce Services",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/taxforce-services/founders-associate-intern-berlin-398265",
+  "reason": "German required"
+ },
+ {
+  "id": "ed49fc6f51c8",
+  "title": "Werkstudent:in Research und AI (gn) im Executive Search",
+  "company": "proetzl executive search",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/proetzl-executive-search/werkstudentin-research-und-ai-gn-im-executive-search-berlin-321659",
+  "reason": "German required"
+ },
+ {
+  "id": "79cc38c42a20",
+  "title": "Werkstudent:in Kundenbetreuer:in (w/m/d)",
+  "company": "Enpal",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/enpal/werkstudentin-kundenbetreuerin-berlin-348465",
+  "reason": "German required"
+ },
+ {
+  "id": "b6957ef3db7a",
+  "title": "Business Operations Internship (w/m/d)",
+  "company": "Enpal",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/enpal/business-operations-internship-berlin-225720",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "4309bea2a830",
+  "title": "Strategic Projects Internship (w/m/d)",
+  "company": "Enpal",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/enpal/strategic-projects-internship-berlin-469847",
+  "reason": "German required"
+ },
+ {
+  "id": "1b5c3d5cfda1",
+  "title": "Inhouse Consulting Internship (w/m/d)",
+  "company": "Enpal",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/enpal/inhouse-consulting-internship-berlin-226798",
+  "reason": "German required"
+ },
+ {
+  "id": "3c020748ce5f",
+  "title": "Junior Consultant (m/w/d) - Praktikum",
+  "company": "Bridgemaker GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/bridgemaker-gmbh/junior-consultant-praktikum-berlin-64046",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "e10bdc9b399a",
+  "title": "Werkstudent Influencer Marketing & Affiliate (m/w/d)",
+  "company": "Rosental Organics GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/rosental-organics-gmbh/werkstudent-influencer-marketing-affiliate-berlin-183692",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "d5ea0e4324be",
+  "title": "Praktikant (m/w/d) Human Resources / Personal Remote",
+  "company": "allaboutHRLaw GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/praktikant-human-resources-personal-remote-berlin-447873",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "d0d48c15dce0",
+  "title": "Werkstudent oder Teilzeitkraft (m/w/d) im Bereich Online Marketing & Digital Growth",
+  "company": "allaboutHRLaw GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/allabouthrlaw-gmbh/werkstudent-oder-teilzeitkraft-im-bereich-online-marketing-digital-growth-berlin-1354",
+  "reason": "German required"
+ },
+ {
   "id": "7a56f18d031c",
   "title": "Working Student - Staffing Operations (f/m/d)",
   "company": "Zenjob",
@@ -128,14 +240,6 @@
   "reason": "Posting not in English"
  },
  {
-  "id": "012e981ff490",
-  "title": "Intern/Werkstudent Partner Management (w/m/d)",
-  "company": "Enter by baupal GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/enter-by-baupal-gmbh/intern-werkstudent-partner-management-berlin-321465",
-  "reason": "German required"
- },
- {
   "id": "3abe961af058",
   "title": "Werkstudent:in Social Media Management (m/w/d)",
   "company": "Corominas Consulting GmbH",
@@ -150,110 +254,6 @@
   "source": "Arbeitnow",
   "url": "https://www.arbeitnow.com/jobs/companies/best-talents-consulting-gmbh/werkstudent-oder-praktikant-recruiting-active-sourcing-100-remote-berlin-170386",
   "reason": "Posting not in English"
- },
- {
-  "id": "c869f2d93df3",
-  "title": "Praktikum Online Marketing & Media Design (m/w/d) - Content Creation, Social Media & Startup-Kultur",
-  "company": "Think3DDD GbR",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/praktikum-online-marketing-media-design-content-creation-social-media-startup-kultur-berlin-296769",
-  "reason": "Posting not in English"
- },
- {
-  "id": "08dcdea032b1",
-  "title": "Werkstudent:in Marketing & Growth",
-  "company": "ToysReloved",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/toysreloved/werkstudentin-marketing-growth-berlin-398739",
-  "reason": "Posting not in English"
- },
- {
-  "id": "659b2040e9a6",
-  "title": "Business Development Executive (f/m/d) - Mandatory 6 Month Unpaid Internship",
-  "company": "Awtomated",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/awtomated/business-development-executive-mandatory-6-month-unpaid-internship-berlin-81599",
-  "reason": "Unpaid"
- },
- {
-  "id": "d598e4070df8",
-  "title": "Build Your Own Internship (m/w/d)",
-  "company": "inca",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/inca/build-your-own-internship-berlin-53298",
-  "reason": "Posting not in English"
- },
- {
-  "id": "e53dfdfed145",
-  "title": "Unpaid HR and Recruiting Internship — Startup Hiring Experience",
-  "company": "IndieKidz GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-hr-and-recruiting-internship-startup-hiring-experience-berlin-198581",
-  "reason": "Unpaid"
- },
- {
-  "id": "38ef64c43fae",
-  "title": "AI Builder Intern (m/f/d)",
-  "company": "inca",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/inca/ai-builder-intern-berlin-211359",
-  "reason": "Posting not in English"
- },
- {
-  "id": "c9b0a6eadffc",
-  "title": "Werkstudentenstelle - Technische Kundenbetreuung / IT Support",
-  "company": "Projektron GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/projektron-gmbh/werkstudentenstelle-technische-kundenbetreuung-it-support-berlin-58194",
-  "reason": "Posting not in English"
- },
- {
-  "id": "77b7620e5f36",
-  "title": "Werkstudent Marketing und Projektmanagement (m|w|d) - ca. 10 Wochenstunden",
-  "company": "Assecor GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/werkstudent-marketing-und-projektmanagement-mwd-ca-10-wochenstunden-berlin-184414",
-  "reason": "Posting not in English"
- },
- {
-  "id": "0265a2a11e3a",
-  "title": "Verkäufer / Beauty Expert Berlin Store (all genders)",
-  "company": "Flaconi",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/flaconi/verkaufer-beauty-expert-berlin-store-all-genders-berlin-berlin-201083",
-  "reason": "German required"
- },
- {
-  "id": "786c7bac28a5",
-  "title": "Mitarbeiter Personalsuche als Werkstudentin /Minijob /TZ",
-  "company": "ABEX Stahlbau-Rohrbiegen-Stadtmöbel GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/abex-stahlbau-rohrbiegen-stadtmobel-gmbh/mitarbeiter-personalsuche-als-werkstudentin-minijob-tz-berlin-222352",
-  "reason": "German required"
- },
- {
-  "id": "22546e9a1800",
-  "title": "Werkstudent*in Promotion (m/w/d)",
-  "company": "Octopus Energy Group",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/werkstudentin-promotion-berlin-de-376841",
-  "reason": "German required"
- },
- {
-  "id": "f05a17005249",
-  "title": "Talent Acquisition Intern",
-  "company": "trawa",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/trawa/talent-acquisition-intern-berlin-417738",
-  "reason": "German required"
- },
- {
-  "id": "86419315d647",
-  "title": "Venture Development Intern",
-  "company": "FastLeap Partners",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/fastleap-partners/venture-development-intern-berlin-343329",
-  "reason": "German required"
  },
  {
   "id": "72306efbbe36",
@@ -472,6 +472,14 @@
   "reason": "German required"
  },
  {
+  "id": "38ef64c43fae",
+  "title": "AI Builder Intern (m/f/d)",
+  "company": "inca",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/inca-ai-builder-intern-m-f-d-1cfa2c7b",
+  "reason": "German required"
+ },
+ {
   "id": "f7c3d72f766e",
   "title": "Working Student IT Solutions Management (m/f/x)",
   "company": "Scalable Capital",
@@ -502,6 +510,22 @@
   "source": "Firecrawl: workingstudentjobs.de",
   "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160235165?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
   "reason": "Posting too old"
+ },
+ {
+  "id": "7c027cc1a392",
+  "title": "Student Assistant* VIT-IMC / Virtual and Augmented Reality / Unity Development",
+  "company": "Fraunhofer Heinrich Hertz Institute HHI",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://jobs.fraunhofer.de/job/Berlin-Student-Assistant-VIT-IMC-Virtual-and-Augmented-Reality-Unity-Development-10587/1455180533/?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "Posting too old"
+ },
+ {
+  "id": "0f8efe1fdf5f",
+  "title": "Werkstudent*in VIT-IMC / Virtual und Augmented Reality / Unity Entwicklung",
+  "company": "Fraunhofer Heinrich Hertz Institute HHI",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://jobs.fraunhofer.de/job/Berlin-Werkstudentin-VIT-IMC-Virtual-und-Augmented-Reality-Unity-Entwicklung-10587/1455180433/?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "German required"
  },
  {
   "id": "3fbc173f482e",
@@ -552,6 +576,14 @@
   "reason": "German required"
  },
  {
+  "id": "08d5ba40cdb2",
+  "title": "Werkstudent (w/m/d) - Security Tooling",
+  "company": "IONOS",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/ionos-werkstudent-w-m-d-security-tooling-d09161c0",
+  "reason": "German required"
+ },
+ {
   "id": "87834d74184a",
   "title": "Intern, Data Engineer - People & Culture",
   "company": "Delivery Hero",
@@ -565,6 +597,6 @@
   "company": "Boston Consulting Group (BCG)",
   "source": "Firecrawl: workingstudentjobs.de",
   "url": "https://www.workingstudentjobs.de/jobs/boston-consulting-group-bcg-working-student-it-service-team-a938383d",
-  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
+  "reason": "German required"
  }
 ]
