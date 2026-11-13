@@ -1,5 +1,125 @@
 [
  {
+  "id": "d9996d4e1d79",
+  "title": "Customer Support (f/m/d) / 20h pro Woche",
+  "company": "Future Demand",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/future-demand/customer-support-20h-pro-woche-berlin-439684",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "8992019d0ab1",
+  "title": "Werkstudent (m/w/d) - AI Enablement & Adoption",
+  "company": "XCNT GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/xcnt-gmbh/werkstudent-ai-enablement-adoption-berlin-17848",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "28a76a9584e1",
+  "title": "Werkstudent/Praktikant (m/w/d) – Beratung Informationssicherheit & Managementsysteme",
+  "company": "Dr.-Ing. Phillip Käser Consulting GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/dr-ing-phillip-kaser-consulting-gmbh/werkstudent-praktikant-beratung-informationssicherheit-managementsysteme-berlin-294965",
+  "reason": "German required"
+ },
+ {
+  "id": "ba315d2e9401",
+  "title": "Praktikum AI & Automation – Virtual Power Plant (m/w/d)",
+  "company": "Enpal",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/enpal/praktikum-ai-automation-virtual-power-plant-berlin-252928",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "4ffbc46def36",
+  "title": "Praktikum Tech Venture Development (w/m/d)",
+  "company": "Enpal",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/enpal/praktikum-tech-venture-development-berlin-189928",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "29607f6148a0",
+  "title": "Praktikum KI-Lösungen & Automatisierung im Energiemarkt (m/w/d)",
+  "company": "Enpal",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/enpal/praktikum-ki-losungen-automatisierung-im-energiemarkt-berlin-122958",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "2812410cda9a",
+  "title": "Operations Intern - Renewable Supply",
+  "company": "trawa",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/trawa/operations-intern-renewable-supply-berlin-459919",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "b3d14bfc8ad5",
+  "title": "UX Research Intern",
+  "company": "baesh social UG",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/baesh-social-ug/ux-research-intern-berlin-272486",
+  "reason": "Unpaid"
+ },
+ {
+  "id": "5bb5db33a4b2",
+  "title": "Investment Team Intern (m/w/d)",
+  "company": "Taxforce",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/taxforce/investment-team-intern-berlin-319149",
+  "reason": "German required"
+ },
+ {
+  "id": "7ff62c62165e",
+  "title": "Growth Intern (m/w/d) - Start-Up",
+  "company": "Taxforce",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/taxforce/growth-intern-start-up-berlin-256865",
+  "reason": "German required"
+ },
+ {
+  "id": "f09c5133d17a",
+  "title": "Founders Associate Intern (m/w/d) - Start-Up",
+  "company": "Taxforce",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/taxforce/founders-associate-intern-start-up-berlin-231203",
+  "reason": "German required"
+ },
+ {
+  "id": "1e8363058917",
+  "title": "Werkstudent/in (w/m/d) - Finance Operations",
+  "company": "Arsipa GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/werkstudent-in-finance-operations-berlin-210344",
+  "reason": "German required"
+ },
+ {
+  "id": "7c6bd41809aa",
+  "title": "Internship in Tech & IT Infrastructure [all genders]",
+  "company": "Health & Safety Experts GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/health-safety-experts-gmbh/internship-in-tech-it-infrastructure-all-genders-berlin-136665",
+  "reason": "German required"
+ },
+ {
+  "id": "da3085bababa",
+  "title": "Marketing & Content Intern (m/w/d) - Pflichtpraktikum, Remote",
+  "company": "Maramio",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/maramio/marketing-content-intern-pflichtpraktikum-remote-berlin-483973",
+  "reason": "Unpaid"
+ },
+ {
+  "id": "228a3754055e",
+  "title": "Technical Support Manager | Working Student / Werkstudent (m/w/d)",
+  "company": "Superchat",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/superchat/technical-support-manager-working-student-werkstudent-berlin-berlin-249518",
+  "reason": "Posting not in English"
+ },
+ {
   "id": "7dd1eae26e44",
   "title": "Intern - Founders Associate (f/m/d) Fintech Startup (Serial Entrepreneurs) Starting in January 2027",
   "company": "finperks GmbH",
@@ -128,14 +248,6 @@
   "reason": "German required"
  },
  {
-  "id": "c4b1b1565875",
-  "title": "1207 Content Writer / SEO Copywriter (Part-Time)",
-  "company": "Intetics 2",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1207-content-writer-seo-copywriter-part-time-germany-224077",
-  "reason": "German required"
- },
- {
   "id": "6e8e179d5856",
   "title": "Werkstudent Partner Sales (m/w/d)",
   "company": "GALVANY",
@@ -165,94 +277,6 @@
   "company": "Werkia",
   "source": "Arbeitnow",
   "url": "https://www.arbeitnow.com/jobs/companies/werkia/praktikum-im-customer-success-management-berlin-318884",
-  "reason": "Posting not in English"
- },
- {
-  "id": "0d3b3b69ddcc",
-  "title": "Social Media Werkstudent (m/w/d)",
-  "company": "Qonto",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/qonto/social-media-werkstudent-berlin-251",
-  "reason": "German required"
- },
- {
-  "id": "6ba23b0da025",
-  "title": "Customer Success Consultant (x/f/m)",
-  "company": "Doctolib",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/doctolib/customer-success-consultant-berlin-161973",
-  "reason": "German required"
- },
- {
-  "id": "249f6d6f0b71",
-  "title": "Working Student - IT Asset & Stock Management (x/f/m)",
-  "company": "Doctolib",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/doctolib/working-student-it-asset-stock-management-berlin-426140",
-  "reason": "German required"
- },
- {
-  "id": "da6f7f2a92c7",
-  "title": "Praktikum Campaign Management (x/f/m)",
-  "company": "Doctolib",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/doctolib/praktikum-campaign-management-berlin-365813",
-  "reason": "German required"
- },
- {
-  "id": "e4ecbfaf8ef6",
-  "title": "Praktikum Product Marketing (x/f/m)",
-  "company": "Doctolib",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/doctolib/praktikum-product-marketing-berlin-353842",
-  "reason": "German required"
- },
- {
-  "id": "1bf217ab0f33",
-  "title": "Praktikum Public Affairs & Advocacy (x/f/m)",
-  "company": "Doctolib",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/doctolib/praktikum-public-affairs-advocacy-berlin-316262",
-  "reason": "German required"
- },
- {
-  "id": "8e00916556f0",
-  "title": "Workingstudent B2C SEO & AI Search (x/f/m)",
-  "company": "Doctolib",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/doctolib/workingstudent-b2c-seo-ai-search-berlin-354479",
-  "reason": "German required"
- },
- {
-  "id": "aa448be66233",
-  "title": "Werkstudent Customer Success (x/f/m)",
-  "company": "Doctolib",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/doctolib/werkstudent-customer-success-berlin-203710",
-  "reason": "Posting not in English"
- },
- {
-  "id": "e62c18e6690c",
-  "title": "Werkstudent:in (m/w/d) Psychologie Altersmedizin",
-  "company": "Caritas Gesundheit Berlin gGmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/caritas-gesundheit-berlin-ggmbh/werkstudentin-psychologie-altersmedizin-berlin-268251",
-  "reason": "Posting not in English"
- },
- {
-  "id": "3abe961af058",
-  "title": "Werkstudent:in Social Media Management (m/w/d)",
-  "company": "Corominas Consulting GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/corominas-consulting-gmbh/werkstudentin-social-media-management-berlin-432510",
-  "reason": "Posting not in English"
- },
- {
-  "id": "dc554df0132f",
-  "title": "Werkstudent oder Praktikant Recruiting & Active Sourcing (m/w/d) – 100 % Remote",
-  "company": "Best Talents Consulting GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/best-talents-consulting-gmbh/werkstudent-oder-praktikant-recruiting-active-sourcing-100-remote-berlin-170386",
   "reason": "Posting not in English"
  },
  {
@@ -448,6 +472,110 @@
   "reason": "German required"
  },
  {
+  "id": "8c38fb246124",
+  "title": "Technical Sales Working Student",
+  "company": "Rolls-Royce Power Systems",
+  "source": "Firecrawl: englishjobs.de",
+  "url": "https://englishjobs.de/clickout/08657942c0685f18?ql=ql&sig=00bf559049562095e9af222e3bf5657a9220d017&e=gXTSnJJDVE9UddnYi6F4B-Sf1wB-PtgdhdIFU9IhlEjqPkuUoS4PR_svzCA4jhf2H4Gr_6GtmkqvM2PK6fvBzCZpSWoi6oyL5Mwu1JGE0F07YpwG5UOs1tAaN3MakjUOuQzQ3tWSiIDdNZ79dawx--RMtTo1KTQnsic1EvP3zLhbIWh6V4yVlBr3NcjkUMlzqVio80aOHp7Ioq7S_CqMReSOaqZMGjKHAPURpDj4UxHvYA8OU4KaXHFmma4KEbSf4lF0p9h4H93L8CA7poMAzryYJ835pWRW5dmfImEwQaSuAXsJkUxIoiRxTCplZtix6UmF4xYVHiM_GUxlX4ErPI-BlyknjiNx5EZte7Xp55iKEQN5ymIqH9FIZT3B6oiV6UxbIY9taAPmEmRPBPboxQaqFSAoNGuEmxNIUefMARuvE0qWK9xJUF3mVG75j9m5c5_57m8Y9UOL54bGf7xRQypLaiOZW5o4nd2-BpOf73y_6xVfyTngyou_nILJ7pbX8QkECyQsK86luPdEXi_X-SvbcvM1WN9NsYufsVwZoj8nuymHn52zp539eJiugj5vggj1ub0TZMjQDS0EVccALaWUVt4JgFy0HzHjoNcWuTTIh3IP0zE6bdtVDfCJOz4Vu2vYkLkecyeDootb5zEAXwV7ksZQOQAc52639HPonnJ6n64Z5uidUgYBLJE46w7SeX08wJk3ekJFmqb16aOCIL4_F_LLrfMtnF2HOMnKQOj0xbuqvFZnMzt-aZZ73GPrkBM5EfAeqrth7DQ4pBqulxGoNfSr7tWoEWbGp_dG9YjakhU-zoWA1Nq3EHbqqwzidHO9usTC0rnQPMvcnRp-j6lZhrsI8BvcoGfT_6xF_0UaxXW-1Ryuj3QiO4W_ehQKsji7cdOBF9ISrsnWvS6uhV88qeloeTouLlRJD6MkzRjFx20j9YlIlTBeqFTgxPZzRDbdb0aq17HbBe6vvu5b4l-OlTC3HJhWVqQpbAbuVy2VUI8AQ1qGq2y9kcsbRe4mLfK3TLHVuIwHPj_cb_u35e_xpFqu3BBunKjTTy8RbHwh_11NUJuP7e0BvELoFaS56xFlmfeDdorJ9MTfRJAbCBcoU1Ij3ZMzkovndPOcs6MHRQPYog4xBq__oMfKIvMhrbGa_dyu3sLMyPXsVTxslmBd32yTlAVAenqHZLYQRjZy_wdkUTo2H1EKATilrnzmoUFh9oYwtVV_qmJfawCsK8UM8jQAW9ovny2ow2W3dhBB6Cdzh2P15HagADX3XKcAvpVSSjRh5myhxK2-V76Zybltb6dT01SdewJho9jsIRCvo6fHTXv-pPjFJtP-GWikyMbkbLn3u9EUSxNSDIRUYImc5t_hh6wUtwkUZbHtSv181AHoAE1UTn7UDW6Hj25TLa25o3bK40ZxcS5mOXoFRFzAk9J9AgizrFixSwwBDZTeZ5ez6zN8NkTzkvCdy1loN1MT-xtM59rKjKoK04nNbop1ufncuTgoyfwsaczDjwQTgyNvq3Q_v37Ug_oztOhTasS1fBWlM_pWXoVD5JQd4-l-__aUmaTJkyOpk17mxq3sfBvgbgWqoiZqFDYtNzn3xcsANej8nRu1fVx0EDhl0xbWvuaNDeHvQNzuHxB1DSYeZrySC62wWxvZgezmxQ7ex9hGZn4Et--vtIH2GQFqA3XrfOPechkblu4ZPZwOBR1zhZTlTF4Q26o2AG5FnsRZZtNVsmyCnwsPjnJt5KeCBIj2YteUpKhSs745l6uAyV1OCTlLGtW_JraAr6OB90j1_a6AkaNeFF6dl2Pu-fsR3rWwdCF3PBe3o_KARQ0vOJXSFXwBBxcWu9y2-tKHy4UHwQTDZUtWFfQtpA_Wi9Y0UsHYJ1j6hrW2JKXHJuyLxXtVcPEvICY_jICianASwb8f0fnb1UD0pOsjC0yRWBAIpwUoZTvO0WmBjHQMvmSAfuwdP3J6LY891sGDz6YcCHwLelX8gKN4iNrCAd9dCdroRLsk27oG3FVGKmpCF3Rk_6_cF7oWjVeDSVDJF5_0nh7kDg&prev=RQF0087811451BF5&p=1&pg=1&w=1920",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "27a7e77b1ec0",
+  "title": "Technical Sales Working Student",
+  "company": "Rolls-Royce",
+  "source": "Firecrawl: englishjobs.de",
+  "url": "https://englishjobs.de/clickout/8061b779c75b2e01?ql=ql&sig=5a683506108cce045bd3c1e86b52c929cea7b009&e=DRRys1VTZ4rnJMAFm682rQcz7RzW7XBxyYqAaD3JpOdzYzC3M3z4r5ZPEWnoxCJQL9jvgVTVvYgWGbr3aSfuk7GRv9o_Ol4clQOXhpVPU7T-8fckPAGQuMdoxdVfdVHm7KUCP_bus08EON0JMPygtZxRmU3G_SY2EsMdCvvUYQZ7serIMcMs2ESZqiNGD7ClXFOu4tspFTkqFuktobemf5fweB4BgBzR6SAs_5wqBQqmBuelnf_9oI4HgSUbNqSwD_dGzSnUQMezCK5MKxJ4QxQCoS1pT9c4jWWDbw70Uu33-Solkg5c_W8bhLWqsnP9rtOgb7Go2NkCEL-92ajmU7sc_uRc0BO4WlYisTw3Fsb8ZpTLfwGwMi1tKegcIugSOWHjfEnLqSshwnb5L4nI3HOHYdn0E0ePTSljANbZEG8YRmZJ45V9jh_4PU3ThY0w8utcq52eUruMHu8wRezJ_beKXsDcfSp0ptMoWdVFRPjBhTibj317bS4u4OFUC3deryib-_uDWLby5kfVtXHwSjdczPcEY8adf3uhh0OCPprua9ITzCC42wUuxsWBZT5KRohtH8VaE9jm1qVW3SYPR7u1n2DJqova00bjB2haykQrDGzUT7Ut4L5wAlAQfamr2pyayA2fiqZhBY9g4cDoBMc0z076Clz1oFRToK6l6KP8KyUCrg4xnY_G7XEJl0v6HAeoag4afu-YpirhQ5pYt8SxzdynrQ-FCfc74wc-cC0PLD-ZoYqFloihLPlxPnsyj67ZlHUv-zarSDFUraBi88LChg7LVVnnFguknkbO1UmYmoihu5cOjsTk_LX2tBbMHUp5FyxcbnOUbL4j7-9p4tAiYaG4FtnBy93PvRF7vN6kqMtgqxcuKCOhcU-_25J4NRi6noQScX4S7cKzmy_fbLM12r3m1-Qik0pHHCqCBTVp0Ix3MC1C2vMo5Io3WL8nSrnho_uXh9hgl7GKckJob9zdBMS1J_2qXaoO1xwORjtKykEmIwN73Ul6NfF_s1S5pO7N5s5PxrMmb95OJRdiKsbw3F8F9lOdMe7x52AdDFW_og021Fg1NSDN-_tDn1_lbWnjmqNSKvXd11Q1QDXRjDmzKF2I4l_VMsmi8lud2eoWp2F7ySHiYSnC4iaS_2fShzjzPZvNiq7ATMulWOalRlNsmtMdOlsLR0OLoN9ARfsfvYHq3p_T7H0N_bmr_mgc70yRBEF6iCJta991NDTYpvDPzZAfG4gG36mEp6cWoH-UitIY8YoGJ_BGOTfsFidD8wIxX5WWENpUnPFiCD26DZOFLaXcDT7vcWzY5YeX2_YAJ6yuBHRKW5F-ctMR1gWrGAbi8SzFU1XdjXbh6EcHzEbTHx5-ApMC7P2TVAw8ruEtOpAOycqioCIuXQOh5uuxpbUOqrtoY1lIVzbap674j5-U175bTeAdViMacKvjWEbaMJH7TQW2PKyvss5nWDntXZ-e5cM5Bei4VyhcyoUR88QCD6zf7F0q7yUT9ysop5W-YkgY8T3UXFgaB88vRF5lfmOUhA_osZaxG3S10EXmTxo35nLO_EJIu3SttZ6RhvZE40SKjz6Jk_rwfSYIXKQ5kEVBox416qm5TGgMl3kxyAQMH1GdMqGleMi3Lg8Myreus_M5Dt7m8E9ZSMtAqxoLp3UuEF_GgIvcykuQXtq6KcoZsN4SP32d2iGGLNXCCSC-P1_1saKnAcxN6jSA5qAe9P9pEicpkuEMHQBcmJsKU6FIw0-ZsBs1xmsLPUaOCElF2VUC3SNbsWs_3weAcNg_JQ68rzPXkcYhaOfG7symBozr2lxkz_MjwS3XNYgoEvferLeUnwpYKqNtllFBIDmNbPmDjJv9fjuGIIItflEppi2ms9bxpcU-Odw05ofwX9DHP0gUujuKc46GaMB3tJcP9iWIHI_TlC3NnjbGTaZKNY-t3slV6s_7UPr4lKIdJOTiNq5vd0_RllVQimZefp-002BqJh4SrUP0VqXAjxUdS5yqjHAPNKzFEmOcGf__8wyhRRpU9HO39ZfdZU_vtLcRzA&prev=RQF0087811451BF5&p=2&pg=1&w=1920",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "761a6299a160",
+  "title": "Working Student Acoustics Engineering (m/f/d)",
+  "company": "Rolls-Royce",
+  "source": "Firecrawl: englishjobs.de",
+  "url": "https://englishjobs.de/clickout/e339f0403a7210c4?ql=ql&sig=ae6af61196f490d8bd0d02179949beddeb3a9876&e=dnfJLskFFjtVQQKWD10vKlTwyltZ3mquLiaS-wY-kpG8S2YTeXFR6rYNhxTbdJ1qbQfgKh3jOvx9Hm8KTMMDwbFWGTAufqWo-2gC4WJPP_yBXNWZbpEJ-JgZsBPtkYZdBq1UNQEnm97sa3j1TQo9dC82RAZThNE2V8V_um5vUz_us8kWu4guaz_D4IK_xw8iOs8anjeHZuPk3t3SkNjkR6CTB2ivDyx5Agt_2SAPXR64SDrWouOwZfRFCaiOHQbgcsezGFF_RuzG1WLZKtGlQ4X3lCqAFpjCmT1zlkMhePCgmyY_FDy9KkPB9qY8Ik9P7GlGJKuIHoLPqTEDI5PxvyHaDlEp8S7wHWb89J5eHRxn--ASbeLY2AfDCNS-m989uQINI7OC90z_dkqyG3EF1JoDJ8AeiSKnzbtcYEpluQUpckXjXsXVwFQdy-gciwimns1MmNJOOWt5eHFw8LA-BIPbPd1Xs4-xtL5O2MuiwkVAYlrhHEWn3Lemqwmdx3tuEl1M25xAsvFtPG1QyAisK68j62CzDpCLOgPWcbOArE66QNxcvcpxK_Rv4KDlaOigXA9m9rNGhEOtusWrQS4Vndo2EA8Iee1gFsKcS8S6DdwblOtegDbS_uf_DOwQRvv-aMloXAHxQMzz2fiBpQP7mkS5E8XU1MtGPxS9d7bEIM3SJq79kgxrr6YbiwRH3IbGtfJHxS-D7bHoNuL6aJ2l722XrVcq1OmQtdRr5Pg-OX-JQr5CDe2N4-OywbiFtiZGEf2E2FraFhz3igt7w-2yCbkwdkoZBcieQdfgnIbqAujuQmdZsUpvDjIYWbVL2lxx6UZ64xm68kAiEfiD2j-Cz8DIFhCf7subeFk6KvdtOgCjoKf1ADbdiHNe0VnbWc5DsjV4XTM6JcTg7UA4Yjie84Y9wEhXBTUN9kRmZidtAYs_rhdehkKfH2dxGMe_7tQh31QkDyiuT7ku21IQGyjwMp4lha7gtL_rtfuSrtPAvnNV4Ts0F0KtCK6KLf_mBS7SSyL7dcSRFi512qvjrylb2cGaincxW910HYamiAVrJHVOvh5wMsRAnKipuJhDNTANcRWxRQ4C8vKwdcMSgHyef-wZBMPOoIt4VIE9ZxsUFoJj_RU2AKLxt-B6vcnklZKriyYRASjbZuD67S1w6jYJ2EflFsYrRN8u2VS7bhlIyfLVPjus83VuDWVJDUfBIJn4jjJGDdgbrk-0w1rGGr1ysdjrEpEewDHE6AukB5Z7op0z4YS4SOYB6gz0kf_3pZCJ4ALq4YP47aSGGFGAW3xMK2F-1yV6FRPPxE71HYUWxrOFBw_e1RZnlqtYSIjElFX1pzLyd-LiLIzaxobfTGYkvmNQeuzDsyRKVg71GbTAp6mh5WTPsQQVhRSdyX5Etg31K3lR2EigC7CrP4OM46Id5QiPT8IjvuQ6Gdv1iXWdHDx66VUI0APDYyAt9SYcpgwMe60eZvMPAoPAHN5WNMocLJdcy9Zfm43kJ3FEC3zF0PdM8YvhPDTLOpPFfN3_y_a8nP3oN7sbrd43luJ2-sN9Jadslmv6YJn6v3L2ZDs8CsSuE-Kw7LbnEgHU6l534rmpgUNx4SuKSDWEYIMj8AQ_XbMpIJJ_XciF3LCCzZZq1tJjCxC33F2RSVi0AXT2PqqxTjY-JJ_ObgLrlC5TBbIZSqeXHXybJBKZXBIVmjfFczUgU8aIxmUTeZs7ATRqti57ThxyXv3GnxAft9ARN4uRkI8dVS8ylX7UCddgxlPSTM4IzX_U9Gxktjdw0mk7slzmcHDAjeAcPM4ieT8L9I935v5hRKw2_TUIdzkd3rEVaU468kdbRHVUmD2AwMN6Jbk2uXq_y2Vz2_dkn9C6abQHMKrqamfbof-RSGIAwmfxQGXSqKxDD68Y43vzHs2wqgMf3jtSvN5I0FzWFBgKTtELR7wt5FPh4SX4zz8yylZTud3sZWe05ic0FqXL8kxnQN5dlCmr7cNARLcFrqrP1eIr8GE9d8hvmktqdCj63bNnuBMa6oEjzAyzNXp51te4A&prev=RQF0087811451BF5&p=20&pg=1&w=1920",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "accd8930299b",
+  "title": "Forward Deployed Intern",
+  "company": "Andercore",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://jobs.ashbyhq.com/andercore/1c400aca-d835-49f7-b11c-643b829d8b03?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "Posting too old"
+ },
+ {
+  "id": "3de700a149fb",
+  "title": "Werkstudententätigkeit m/w/d Datenqualität, Analyse und Optimierung von Service- und Geschäftsprozessen",
+  "company": "Daimler Truck AG",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/daimler-truck-ag-werkstudententaetigkeit-m-w-d-analyse-und-6037b1fd",
+  "reason": "German required"
+ },
+ {
+  "id": "ae1619e0bee4",
+  "title": "Werkstudent (m/w/d) AI & Automation – Customer Experience",
+  "company": "IFA Berlin",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/ifa-berlin-werkstudent-m-w-d-ai-automation-customer-fd2fc9b0",
+  "reason": "German required"
+ },
+ {
+  "id": "611e86d42dc8",
+  "title": "Werkstudent:in Datenanalyse & Finanzprodukte (all genders)",
+  "company": "Finanztip",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/finanztip-werkstudent-in-datenanalyse-finanzprodukte-all-a3b85331",
+  "reason": "German required"
+ },
+ {
+  "id": "e6012aa3066f",
+  "title": "Werkstudent:in Softwareentwicklung & Bahnsystemarchitektur",
+  "company": "Deutsche Bahn",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/deutsche-bahn-werkstudent-in-softwareentwicklung-612884c8",
+  "reason": "German required"
+ },
+ {
+  "id": "b6789a54bd2d",
+  "title": "Werkstudent (w/m/d) für Testautomatisierung",
+  "company": "Siemens",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/siemens-werkstudent-w-m-d-fuer-testautomatisierung-6237b808",
+  "reason": "German required"
+ },
+ {
+  "id": "b9f959f55f85",
+  "title": "Sales and PPA Support Working Student",
+  "company": "Iberdrola",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/iberdrola-sales-and-ppa-support-working-student-e450007e",
+  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
+ },
+ {
+  "id": "7284fb40a96a",
+  "title": "Werkstudent:in (m/w/d) Full Stack Development",
+  "company": "EMPIT",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://empit.jobs.personio.com/job/2683588?language=en&utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "German required"
+ },
+ {
+  "id": "d5df72600391",
+  "title": "Working Student (f/m/d) Cybersecurity Portfolio Innovation",
+  "company": "Siemens Energy",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/siemens-energy-working-student-f-m-d-cybersecurity-portfolio-b89d8c4b",
+  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
+ },
+ {
+  "id": "ccd6a0868b84",
+  "title": "Working Student (f/m/d) - Secure IT Infrastructure",
+  "company": "SAP",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161055879?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "German required"
+ },
+ {
   "id": "8bd1359d6f73",
   "title": "Student Assistant / Student Worker in 5G/6G",
   "company": "Fraunhofer FOKUS",
@@ -461,14 +589,6 @@
   "company": "metergrid GmbH",
   "source": "Firecrawl: workingstudentjobs.de",
   "url": "https://metergrid.jobs.personio.com/job/2884114?language=en&utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "German required"
- },
- {
-  "id": "02da58c273fc",
-  "title": "Werkstudent Energiemanagementsystem & Schulungen (m/w/d)",
-  "company": "TESVOLT AG",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://tesvolt-gmbh.jobs.personio.com/job/2883101?language=en&utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
   "reason": "German required"
  },
  {
@@ -510,93 +630,5 @@
   "source": "Firecrawl: workingstudentjobs.de",
   "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160235165?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
   "reason": "Posting too old"
- },
- {
-  "id": "7c027cc1a392",
-  "title": "Student Assistant* VIT-IMC / Virtual and Augmented Reality / Unity Development",
-  "company": "Fraunhofer Heinrich Hertz Institute HHI",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.fraunhofer.de/job/Berlin-Student-Assistant-VIT-IMC-Virtual-and-Augmented-Reality-Unity-Development-10587/1455180533/?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "Posting too old"
- },
- {
-  "id": "0f8efe1fdf5f",
-  "title": "Werkstudent*in VIT-IMC / Virtual und Augmented Reality / Unity Entwicklung",
-  "company": "Fraunhofer Heinrich Hertz Institute HHI",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.fraunhofer.de/job/Berlin-Werkstudentin-VIT-IMC-Virtual-und-Augmented-Reality-Unity-Entwicklung-10587/1455180433/?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "German required"
- },
- {
-  "id": "3fbc173f482e",
-  "title": "Werkstudent Softwareentwicklung (m/w/d)",
-  "company": "Nhas Food 1993 GmbH",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/nhas-food-1993-gmbh-werkstudent-softwareentwicklung-m-w-d-af3fcd95",
-  "reason": "German required"
- },
- {
-  "id": "a49e16cd135b",
-  "title": "CNOV Internship",
-  "company": "B. Deutsche Telekom AG",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/b-deutsche-telekom-ag-cnov-internship-554bfcad",
-  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
- },
- {
-  "id": "1dc1422d35dd",
-  "title": "Build Your Own Internship – m/f/d (min. 6 Months)",
-  "company": "Langdock",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/langdock-build-your-own-internship-m-f-d-min-6-months-0bde71c3",
-  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
- },
- {
-  "id": "16e89f5995fc",
-  "title": "Werkstudentin Portfoliomanagement (w/m/d)",
-  "company": "GASAG Gruppe",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/gasag-gruppe-werkstudentin-portfoliomanagement-w-m-d-c5924b69",
-  "reason": "German required"
- },
- {
-  "id": "6e3ebf76315e",
-  "title": "Werkstudent (m/w/d) KI & Digitalisierung",
-  "company": "SSF Ingenieure AG",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/ssf-ingenieure-ag-werkstudent-m-w-d-ki-digitalisierung-f7a5106d",
-  "reason": "German required"
- },
- {
-  "id": "8cdf0341537b",
-  "title": "Working Student (f/m/d) - Security Tooling",
-  "company": "IONOS",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/ionos-working-student-f-m-d-security-tooling-ccc22d7b",
-  "reason": "German required"
- },
- {
-  "id": "08d5ba40cdb2",
-  "title": "Werkstudent (w/m/d) - Security Tooling",
-  "company": "IONOS",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/ionos-werkstudent-w-m-d-security-tooling-d09161c0",
-  "reason": "German required"
- },
- {
-  "id": "87834d74184a",
-  "title": "Intern, Data Engineer - People & Culture",
-  "company": "Delivery Hero",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159550349?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "Posting too old"
- },
- {
-  "id": "f837f276a322",
-  "title": "Working Student—IT Service Team(all genders)",
-  "company": "Boston Consulting Group (BCG)",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/boston-consulting-group-bcg-working-student-it-service-team-a938383d",
-  "reason": "German required"
  }
 ]
