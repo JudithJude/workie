@@ -1,7 +1,31 @@
 [
  {
-  "id": "9e016e110d51",
-  "title": "Werkstudent TikTok Live-Shopping & Content Creation (m/w/d)",
+  "id": "58c9ea0e5faf",
+  "title": "Werkstudent:in Content Marketing - Spanien (m|w|d)",
+  "company": "idealo internet GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/werkstudentin-content-marketing-spanien-mwd-berlin-466537",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "b2589fb23054",
+  "title": "Werkstudent:in Content Marketing - Frankreich (m|w|d)",
+  "company": "idealo internet GmbH",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/werkstudentin-content-marketing-frankreich-mwd-berlin-37332",
+  "reason": "Posting not in English"
+ },
+ {
+  "id": "76c6fab43764",
+  "title": "GTM Intern - New Products (AI x Greentech) (m/f/d)",
+  "company": "Reonic",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/reonic/gtm-intern-new-products-ai-x-greentech-berlin-374892",
+  "reason": "German required"
+ },
+ {
+  "id": "08483000fb3e",
+  "title": "Werkstudent TikTok Live-Shopping & Content Creation (m/w/d) – Deutsch C1",
   "company": "MAOMAO Technologies",
   "source": "Arbeitnow",
   "url": "https://www.arbeitnow.com/jobs/companies/maomao-technologies/werkstudent-tiktok-live-shopping-content-creation-berlin-495688",
@@ -216,6 +240,14 @@
   "reason": "Unpaid"
  },
  {
+  "id": "8977b45125b7",
+  "title": "Revenue Operations Intern (w/m/d)",
+  "company": "Liqid Lig",
+  "source": "Arbeitnow",
+  "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/revenue-operations-intern-berlin-157221",
+  "reason": "Posting not in English"
+ },
+ {
   "id": "69e522652cd9",
   "title": "Investment Team Intern (m/w/d) - AI Roll-up",
   "company": "Taxforce Services",
@@ -238,46 +270,6 @@
   "source": "Arbeitnow",
   "url": "https://www.arbeitnow.com/jobs/companies/proetzl-executive-search/werkstudentin-research-und-ai-gn-im-executive-search-berlin-321659",
   "reason": "German required"
- },
- {
-  "id": "79cc38c42a20",
-  "title": "Werkstudent:in Kundenbetreuer:in (w/m/d)",
-  "company": "Enpal",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/enpal/werkstudentin-kundenbetreuerin-berlin-348465",
-  "reason": "German required"
- },
- {
-  "id": "b6957ef3db7a",
-  "title": "Business Operations Internship (w/m/d)",
-  "company": "Enpal",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/enpal/business-operations-internship-berlin-225720",
-  "reason": "Posting not in English"
- },
- {
-  "id": "4309bea2a830",
-  "title": "Strategic Projects Internship (w/m/d)",
-  "company": "Enpal",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/enpal/strategic-projects-internship-berlin-469847",
-  "reason": "German required"
- },
- {
-  "id": "1b5c3d5cfda1",
-  "title": "Inhouse Consulting Internship (w/m/d)",
-  "company": "Enpal",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/enpal/inhouse-consulting-internship-berlin-226798",
-  "reason": "German required"
- },
- {
-  "id": "3c020748ce5f",
-  "title": "Junior Consultant (m/w/d) - Praktikum",
-  "company": "Bridgemaker GmbH",
-  "source": "Arbeitnow",
-  "url": "https://www.arbeitnow.com/jobs/companies/bridgemaker-gmbh/junior-consultant-praktikum-berlin-64046",
-  "reason": "Posting not in English"
  },
  {
   "id": "72306efbbe36",
@@ -472,6 +464,54 @@
   "reason": "German required"
  },
  {
+  "id": "bd53f263b5a6",
+  "title": "Werkstudent (w/m/d) - KI & Automatisierung im Factory Controlling",
+  "company": "Siemens Energy",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/siemens-energy-werkstudent-w-m-d-ki-automatisierung-im-d10917a6",
+  "reason": "German required"
+ },
+ {
+  "id": "09c66bce5961",
+  "title": "Internship - HR Tech, Data & AI Enablement",
+  "company": "On",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/on-internship-hr-tech-data-ai-enablement-f36fede9",
+  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
+ },
+ {
+  "id": "f7c3d72f766e",
+  "title": "Working Student IT Solutions Management (m/f/x)",
+  "company": "Scalable Capital",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000161476969?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "German required"
+ },
+ {
+  "id": "c565835e940a",
+  "title": "Forward Deployed Intern (m/f/d)",
+  "company": "A11",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/a11-forward-deployed-intern-m-f-d-f4427994",
+  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
+ },
+ {
+  "id": "144cd90ea511",
+  "title": "Werkstudent (m/w/d) - AI Enablement & Adoption",
+  "company": "XCNT",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://www.workingstudentjobs.de/jobs/xcnt-werkstudent-m-w-d-ai-enablement-adoption-28865602",
+  "reason": "German required"
+ },
+ {
+  "id": "50aa974f6749",
+  "title": "Intern, Data Labeler (Spanish Speaker) - (Global Discovery, Consumer)",
+  "company": "Delivery Hero",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000161454849?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "Posting too old"
+ },
+ {
   "id": "3de700a149fb",
   "title": "Werkstudententätigkeit m/w/d Datenqualität, Analyse und Optimierung von Service- und Geschäftsprozessen",
   "company": "Daimler Truck AG",
@@ -520,75 +560,19 @@
   "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
  },
  {
+  "id": "7284fb40a96a",
+  "title": "Werkstudent:in (m/w/d) Full Stack Development",
+  "company": "EMPIT",
+  "source": "Firecrawl: workingstudentjobs.de",
+  "url": "https://empit.jobs.personio.com/job/2683588?language=en&utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
+  "reason": "German required"
+ },
+ {
   "id": "d5df72600391",
   "title": "Working Student (f/m/d) Cybersecurity Portfolio Innovation",
   "company": "Siemens Energy",
   "source": "Firecrawl: workingstudentjobs.de",
   "url": "https://www.workingstudentjobs.de/jobs/siemens-energy-working-student-f-m-d-cybersecurity-portfolio-b89d8c4b",
   "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
- },
- {
-  "id": "ccd6a0868b84",
-  "title": "Working Student (f/m/d) - Secure IT Infrastructure",
-  "company": "SAP",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161055879?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "German required"
- },
- {
-  "id": "8bd1359d6f73",
-  "title": "Student Assistant / Student Worker in 5G/6G",
-  "company": "Fraunhofer FOKUS",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.fraunhofer.de/job/Berlin-Student-Assistant-Student-Worker-in-5G6G-10589/1456303233/?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "German required"
- },
- {
-  "id": "533872d9f81d",
-  "title": "Werkstudent Business Intelligence & Analytics (m/w/d)",
-  "company": "metergrid GmbH",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://metergrid.jobs.personio.com/job/2884114?language=en&utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "German required"
- },
- {
-  "id": "38ef64c43fae",
-  "title": "AI Builder Intern (m/f/d)",
-  "company": "inca",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/inca-ai-builder-intern-m-f-d-1cfa2c7b",
-  "reason": "German required"
- },
- {
-  "id": "f7c3d72f766e",
-  "title": "Working Student IT Solutions Management (m/f/x)",
-  "company": "Scalable Capital",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000160632596?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "Posting too old"
- },
- {
-  "id": "14e5ff8f022e",
-  "title": "Intern, Local Service Desk - (ETS)",
-  "company": "Delivery Hero",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160569449?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "Posting too old"
- },
- {
-  "id": "926600276b5d",
-  "title": "Working Student (m/f/d) - IT Security Operations",
-  "company": "Trench Group",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://www.workingstudentjobs.de/jobs/trench-group-working-student-m-f-d-it-security-operations-22248c61",
-  "reason": "Apply link on untrusted domain (workingstudentjobs.de)"
- },
- {
-  "id": "c83d54032ead",
-  "title": "Intern, Local Service Desk",
-  "company": "Delivery Hero",
-  "source": "Firecrawl: workingstudentjobs.de",
-  "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000160235165?utm_source=workingstudentjobs.de&utm_medium=job_board&utm_campaign=organic",
-  "reason": "Posting too old"
  }
 ]
